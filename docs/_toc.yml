@@ -1,0 +1,10 @@
+format: jb-book
+root: intro
+parts:
+  - caption: Technical Guide
+    chapters:
+      - file: setup_ovh
+      - file: jupyter_hub
+      - file: admin_hub
+      - file: admin_doc
+      - file: github_actions
