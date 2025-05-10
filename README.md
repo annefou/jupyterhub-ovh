@@ -1,2 +1,4 @@
-# jupyterhub-ovh
-JupyterHub deployment on OVH
+# JupyterHub deployment on OVH
+
+
+This repository documentation how to deploy Jupyterhub on OVH
